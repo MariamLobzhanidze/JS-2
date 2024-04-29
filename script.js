@@ -32,7 +32,7 @@ let person3 = {
     address: "Batumi",
 },
 
-let personArray = [
+let personArray= [
    {
     name: "Mariam",
     age: 25,
@@ -56,9 +56,6 @@ let personArray = [
 
   console.log(`My name is ${person1.name}. My age is ${person1.age}. My address is ${person1.address}.`);
 
-console.log(`My name is ${person1.name}`);
-console.log(`My age is ${person1.age}.`);
-console.log(`My address is ${person1.address}.`);
  
 
   // homework_4
